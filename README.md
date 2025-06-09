@@ -1,8 +1,5 @@
 # CHATROOM - LiveChatServer 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)       [![](https://img.shields.io/github/release/iamrohitsuthar/LiveChatServer)](https://github.com/iamrohitsuthar/LiveChatServer/releases/tag/v4.0)                        [![](https://img.shields.io/github/license/iamrohitsuthar/LiveChatServer)](https://github.com/iamrohitsuthar/LiveChatServer/blob/master/LICENSE)
-<table>
-<tr>
-<td>
+
 LiveChatServer is a Live CHATROOM which allows multiple users (Clients) to chat with each other.
 </td>
 </tr>
@@ -66,42 +63,3 @@ LiveChatServer is a Live CHATROOM which allows multiple users (Clients) to chat 
     ii) Now you can join the above created room by specifying empty name or the spaces you provided while creating the room in join room option.
     iii) This room won't be visible / displayed in the view rooms list!
     
-    
-    
-### Collaborate with us!
-Want to contribute? Great!<br/>
-
-To fix a bug or enhance an existing module, follow these steps:
-
-- Fork the repo
-- Create a new branch (`git checkout -b improve-feature`)
-- Make the appropriate changes in the files
-- Add changes to reflect the changes made
-- Commit your changes (`git commit -am 'Improve feature'`)
-- Push to the branch (`git push origin improve-feature`)
-- Create a Pull Request 
-  
- 
-### Bug / Feature Request
-
-If you find a bug (the application couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/iamrohitsuthar/LiveChatServer/issues/new).
-
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/iamrohitsuthar/LiveChatServer/issues/new).
-
-## Screenshots
-
-#### Sign In Activity
-<img src="http://iamrohitsuthar.000webhostapp.com/android/github/LiveChatServer/sign-in.png" width="738">
-
-#### Main Menu Activity
-<img src="http://iamrohitsuthar.000webhostapp.com/android/github/LiveChatServer/menu_options.png" width="738">
-
-#### View Rooms Activty
-<img src="http://iamrohitsuthar.000webhostapp.com/android/github/LiveChatServer/view_rooms.png" width="738">
-
-#### Chat Activity
-<img src="http://iamrohitsuthar.000webhostapp.com/android/github/LiveChatServer/chat_activity.png" width="738">
-
-
-## License
-See [LICENSE](LICENSE)
